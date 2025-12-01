@@ -12,7 +12,7 @@
 Currently building **Dark Fantasy Island**  (check the TikTok)  ]
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnUzbXRzOHE0bTk0OXVteHo2aTdydWRudGZ6djVpcTFjbWF0N21mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P6JvGO7KPIakM/giphy.gif" alt="Dragon GIF" />
+  <img src="./assets/dragon1.gif" alt="Dragon GIF" />
 </div>
 
 
@@ -51,6 +51,10 @@ Currently building **Dark Fantasy Island**  (check the TikTok)  ]
   </a>
   
   <h3>Bruno Lorenz – Unity Tutorials & Game Dev Tips</h3>
+
+  <div align="center">
+  <img src="./assets/dragon2.gif" alt="Dragon GIF" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
