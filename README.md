@@ -1,29 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bruno%20Pereira&fontSize=80&fontAlignY=58&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Bruno%20Lorenz&textBg=false&fontSize=50&animation=twinkling&stroke=aaa&strokeWidth=1&desc=Unity%20Developer&descAlignY=70" />
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=brunop98&label=Profile%20views&color=0066ff&style=flat-square" alt="profile views" />
 </div>
 
 # Hey, I'm Bruno 👋
 
-**Indie Game Developer · Harpia Games Founder · Turning dark fantasy ideas into reality**
+**8+ Years Game Developer · Harpia Games Founder · Turning dark fantasy ideas into reality**
 
 Currently building **Dark Fantasy Island** (check the TikTok ↓)  
 Made in 🇮🇹 with coffee and insomnia
 
 ### 🔥 Current Projects
-- 🗡️ Dark Fantasy Island (Unreal Engine 5)
-- ⚔️ Harpia Games – my indie studio
-- Learning Blender + UE5 blueprints like a madman
+- 🗡️ Dark Fantasy Island (Unity 6)
+- 🐉 Dragon Odyssey (Unity 3D)
+- 🛠️ Creating Unity Assets
 
 ### 🛠 Tech Stack
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=flat)
-![Blueprint](https://img.shields.io/badge/Blueprint-0E1128?logo=unrealengine&logoColor=white&style=flat)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
+![Unity 3D](https://img.shields.io/badge/Unity%203D-000000?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![VR/AR](https://img.shields.io/badge/VR%2FAR-000000?style=flat&logo=oculus&logoColor=white)
+![Unity Editor Scripting](https://img.shields.io/badge/Unity%20Editor%20Scripting-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2391203?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 <br>
 
@@ -32,17 +35,8 @@ Made in 🇮🇹 with coffee and insomnia
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunop98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)</div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brunop98&theme=tokyonight&hide_border=true" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brunop98&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=brunop98&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
-</div>
-
-### 🏆 Connect
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@darkfantasyisland)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](your-youtube-if-you-have)
-[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](your-twitter)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
