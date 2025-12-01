@@ -15,8 +15,12 @@ Currently building **Dark Fantasy Island**  (check the TikTok)  ]
   <img src="./assets/dragon1.gif" alt="Dragon GIF" />
 </div>
 
-
-
+### 🏆 Certifications
+<div align="center">
+  <a href="https://www.credly.com/badges/8396994f-8dce-4156-891e-600db57ae74a">
+    <img src="https://images.credly.com/size/340x340/images/03d1c247-d6e6-4a80-b53b-27c7ce6e26e3/image.png" width="120" alt="Unity Expert Developer Badge"/>
+  </a>
+</div>
 
 ### 🔥 Current Projects
 - 🗡️ Dark Fantasy Island (Unity 6)
