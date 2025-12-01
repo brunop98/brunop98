@@ -9,8 +9,8 @@
 
 **8+ Years Game Developer · Harpia Games Founder · Turning dark fantasy ideas into reality**
 
-Currently building **Dark Fantasy Island** (check the TikTok ↓)  
-Made in 🇮🇹 with coffee and insomnia
+Currently building **Dark Fantasy Island**  (check the TikTok)  
+
 
 ### 🔥 Current Projects
 - 🗡️ Dark Fantasy Island (Unity 6)
