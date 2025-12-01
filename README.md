@@ -38,6 +38,14 @@ Made in 🇮🇹 with coffee and insomnia
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brunop98&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
+### 📝 Medium Tutorials
+<div align="center">
+  <a href="https://medium.com/@brunolorenz98">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Medium_icon.svg" width="80" alt="Medium Logo"/>
+  </a>
+  
+  <h3>Bruno Lorenz – Unity Tutorials & Game Dev Tips</h3>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
