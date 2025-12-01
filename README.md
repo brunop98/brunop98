@@ -9,7 +9,13 @@
 
 **8+ Years Game Developer · Harpia Games Founder · Turning dark fantasy ideas into reality**
 
-Currently building **Dark Fantasy Island**  (check the TikTok)  
+Currently building **Dark Fantasy Island**  (check the TikTok)  ]
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnUzbXRzOHE0bTk0OXVteHo2aTdydWRudGZ6djVpcTFjbWF0N21mdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P6JvGO7KPIakM/giphy.gif" alt="Dragon GIF" />
+</div>
+
+
 
 
 ### 🔥 Current Projects
