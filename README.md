@@ -15,12 +15,6 @@ Currently building **Dark Fantasy Island**  (check the TikTok)  ]
   <img src="./assets/dragon1.gif" alt="Dragon GIF" />
 </div>
 
-### 🏆 Certifications
-<div align="center">
-  <a href="https://www.credly.com/badges/8396994f-8dce-4156-891e-600db57ae74a">
-    <img src="./assets/unity-expert-badge.png" width="120" alt="Unity Expert Developer Badge"/>
-  </a>
-</div>
 
 ### 🔥 Current Projects
 - 🗡️ Dark Fantasy Island (Unity 6)
@@ -46,6 +40,13 @@ Currently building **Dark Fantasy Island**  (check the TikTok)  ]
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brunop98&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+</div>
+
+### 🏆 Certifications
+<div align="center">
+  <a href="https://www.credly.com/badges/8396994f-8dce-4156-891e-600db57ae74a">
+    <img src="./assets/unity-expert-badge.png" width="120" alt="Unity Expert Developer Badge"/>
+  </a>
 </div>
 
 ### 📝 Medium Tutorials
